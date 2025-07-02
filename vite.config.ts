@@ -9,7 +9,7 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "/",
+  base: "/PULCRO/",
   build: {
     outDir: "dist",
     sourcemap: false,
